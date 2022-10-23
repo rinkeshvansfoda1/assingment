@@ -1,0 +1,122 @@
+[
+	{
+		"id":1,
+		"isPopuler" : true,
+		"price" : 2095,
+		"location" : "New York, USA",
+		"name" : "Palm Harbour",
+		"number_of_bad" : 3,
+		"number_of_bathroom" : 2,
+		"number_of_size": 57
+	},
+	{
+		"id":2,
+		"isPopular": true,
+		"price":2700,
+		"location": "New York, USA",
+		"name":"Beverly Springfield",
+		"number_of_bad":4,
+		"number_of_bathroom":2,
+		"number_of_size":67.5
+	},
+	{
+		"id":3,
+		"isPopular": true,
+		"price":4500,
+		"location": "New York, USA",
+		"name":"Faulkner Ave",
+		"number_of_bad":4,
+		"number_of_bathroom":3,
+		"number_of_size":810
+	},
+	{
+		"id":4,
+		"isPopular": true,
+		"price":400,
+		"location": "",
+		"name":"Beverly Springfield",
+		"number_of_bad":3,
+		"number_of_bathroom":2,
+		"number_of_size":800
+	},
+	{
+		"id":5,
+		"isPopuler" : true,
+		"price" : 2495,
+		"location" : "",
+		"name" : "Palm Harbour",
+		"number_of_bad" : 3,
+		"number_of_bathroom" : 2,
+		"number_of_size": 57
+	},
+	{
+		"id":6,
+		"isPopuler" : true,
+		"price" : 2095,
+		"location" : "",
+		"name" : "Faulkner Ave",
+		"number_of_bad" : 3,
+		"number_of_bathroom" : 2,
+		"number_of_size": 57
+	},
+	{
+		"id":7,
+		"isPopuler" : true,
+		"price" : 2600,
+		"location" : "",
+		"name" : "Palm Harbour",
+		"number_of_bad" : 2,
+		"number_of_bathroom" : 2,
+		"number_of_size": 40
+	},
+	{
+		"id":8,
+		"isPopuler" : true,
+		"price" : 5500,
+		"location" : "",
+		"name" : "Beverly Springfield",
+		"number_of_bad" : 4,
+		"number_of_bathroom" : 3,
+		"number_of_size": 65
+	},
+	{
+		"id":9,
+		"isPopuler" : true,
+		"price" : 4395,
+		"location" : "",
+		"name" : "Faulkner Ave",
+		"number_of_bad" : 3,
+		"number_of_bathroom" : 1,
+		"number_of_size": 45
+	},
+	{
+		"id":10,
+		"isPopuler" : true,
+		"price" : 2095,
+		"location" : "",
+		"name" : "Beverly Springfield",
+		"number_of_bad" : 3,
+		"number_of_bathroom" : 2,
+		"number_of_size": 57
+	},
+	{
+		"id":11,
+		"isPopuler" : true,
+		"price" : 5000,
+		"location" : "",
+		"name" : "Palm Harbour",
+		"number_of_bad" : 4,
+		"number_of_bathroom" : 2,
+		"number_of_size": 50
+	},
+	{
+		"id":12,
+		"isPopuler" : true,
+		"price" : 2095,
+		"location" : "",
+		"name" : "Faulkner Ave",
+		"number_of_bad" : 3,
+		"number_of_bathroom" : 2,
+		"number_of_size": 57
+	}
+]
